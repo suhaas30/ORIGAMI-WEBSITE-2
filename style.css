@@ -1,0 +1,34 @@
+h1{
+    color:red
+}
+.header{
+    color:blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:hotpink;
+}
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-color:blueviolet;
+}
+.camel{
+    background-color: cyan;
+}
+.chameleon{
+    background-color: darkslategrey;
+}
+.pigeon{
+    background-color: indigo;
+}
+.bear{
+    background-color: khaki;
+}
+.panda{
+    background-color: gold;
+}
+.cicada{
+    background-color: greenyellow;
+}
